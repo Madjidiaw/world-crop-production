@@ -1,0 +1,2 @@
+# world-crop-production
+Food insecurities have been a constant problem and will continue to be an issue for the years ahead. We want to be able to analyze to projected crop production in this dataset to help guide the design and planning of tangible strategies to address the challenges of future food shortages in the next 9 years as population growth is also anticipated to follow a positive linear path (Crop production relative to natural rate of population growth is not analysize here).
